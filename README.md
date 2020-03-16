@@ -1,3 +1,12 @@
+
+# I don't use this thing anymore, I use repl.it!
+
+keeping this here just for posterity
+----
+
+----
+----
+
 # JS Prototyping quick environment setup script
 
 This is my stupid simple script to quickly setup a dev environment when prototyping ideas in JavaScript.
